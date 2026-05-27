@@ -1,5 +1,13 @@
 
 
 body {
+margin:0;
+height:100vh;
+display:flex;
+justify-content:center;
+flex-direction:column;
+    text-align:center;
+    font-size:30px;
+    
     background: linear-gradient(to bottom, white, #DEB887);
 }}
